@@ -56,7 +56,4 @@ public class Primary implements Operations{
 			return score;
 		}
 	}
-
-
-		
 }
